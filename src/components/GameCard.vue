@@ -6,7 +6,7 @@
       }`"
     >
       <div class="flip-box-front center-box">
-        <img src="../assets/icon_back.png" alt="default background" />
+        <img src="/assets/icon_back.png" alt="default background" />
       </div>
 
       <div class="flip-box-back center-box">

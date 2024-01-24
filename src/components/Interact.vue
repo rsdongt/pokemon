@@ -32,7 +32,7 @@ const initCards = (totalCards: number): TCardDetail[] => {
 
   for (let i = 1; i <= totalCards / 2; i++) {
     cards.push({
-      url: `src/assets/${i + 1}.png`,
+      url: `/assets/${i + 1}.png`,
       status: ECardStatus.PENDING,
     });
   }
